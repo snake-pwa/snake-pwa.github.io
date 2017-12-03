@@ -7,7 +7,7 @@ var PRECACHE_URLS = [
     '/favicon.ico',
     '/manifest.json',
     // -- injector --
-    '/assets/snake-0.0.1.min.js',
+    '/assets/snake-0.0.2.min.js',
     '/assets/snake.min.css',
     '/images/berry-small.png',
     '/images/berry.png',
