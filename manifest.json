@@ -2,6 +2,7 @@
     "name": "Snake",
     "short_name": "Snake",
     "description": "A simple snake game",
+    "categories": ["games"],
     "start_url": ".",
     "theme_color": "#000",
     "background_color": "#fff",
@@ -36,6 +37,23 @@
         {
             "src": "images/icons/icon-512.png",
             "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "images/screenshots/starting.png",
+            "sizes": "800x1200",
+            "type": "image/png"
+        },
+        {
+            "src": "images/screenshots/playing.png",
+            "sizes": "800x1200",
+            "type": "image/png"
+        },
+        {
+            "src": "images/screenshots/game-over.png",
+            "sizes": "800x1200",
             "type": "image/png"
         }
     ]

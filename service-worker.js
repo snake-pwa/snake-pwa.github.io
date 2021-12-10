@@ -24,6 +24,9 @@ var PRECACHE_URLS = [
     '/images/icons/icon-96.png',
     '/images/point.mp3',
     '/images/pop.mp3',
+    '/images/screenshots/game-over.png',
+    '/images/screenshots/playing.png',
+    '/images/screenshots/starting.png',
     '/images/snake-head.png',
     '/images/trophy.png'
     // -- endinjector --
